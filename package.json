@@ -1,0 +1,29 @@
+{
+  "name": "grunt-force-task",
+  "version": "0.0.1",
+  "description": "Enable the force option for a specific task.",
+  "repository": "git@github.com:floriangosse/grunt-force-task.git",
+  "author": {
+    "name": "Florian Goße",
+    "email": "florian@essog.de"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "main": "gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-nodeunit": "~0.3.0",
+    "jshint-stylish": "~0.1.5",
+    "load-grunt-tasks": "~0.3.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  }
+}
