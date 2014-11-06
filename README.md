@@ -1,4 +1,4 @@
-# grunt-force-task
+# grunt-force-task [![Build Status](https://travis-ci.org/floriangosse/grunt-force-task.svg?branch=master)](https://travis-ci.org/floriangosse/grunt-force-task)
 
 > Enable the force option for a specific task.
 
