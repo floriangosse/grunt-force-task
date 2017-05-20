@@ -40,6 +40,7 @@ grunt.initConfig({
 
 grunt.loadNpmTasks('grunt-contrib-jshint');
 grunt.loadNpmTasks('grunt-contrib-watch');
+grunt.loadNpmTasks('grunt-force-task');
 
 grunt.registerTask('default', [
     'force:jshint',
