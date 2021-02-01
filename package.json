@@ -1,6 +1,6 @@
 {
   "name": "grunt-force-task",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Enable the force option for a specific task.",
   "license": "MIT",
   "repository": "git@github.com:floriangosse/grunt-force-task.git",
