@@ -1,7 +1,5 @@
-sudo: false
 language: node_js
 node_js:
-  - '5'
-  - '4'
-before_script:
-  - npm install -g grunt-cli
+  - '10'
+  - '12'
+  - '14'
